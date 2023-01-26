@@ -1,6 +1,6 @@
 import random
 
-# Write your code here
+
 list_words = ['python', 'java', 'swift', 'javascript'] # List of words
 print(f"H A N G M A N")
 print("")
